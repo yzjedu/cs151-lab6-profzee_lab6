@@ -2,8 +2,9 @@
 # Lab 6
 
 ### 🔴🔴 It is the continuation of Lab 5. You will work with the same partner 🔴🔴
-- ####  I have provided you with the solution and test case for Lab 5
-- ####  Whatever grade you get in Lab 6, will automatically be assigned to Lab 5
+- #### I have provided you with the solution and test case for Lab 5
+- #### Whatever grade you get in Lab 6, will automatically be assigned to Lab 5
+- #### Take the the provided solution and refactor it 
 ### 🔴🔴 *DO NOT* Start to code before the instructor Approve your algorithm, and test cases 🔴🔴
 
 Grade: EMRN 
